@@ -18,7 +18,7 @@
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
-[![docker](https://img.youtube.com/vi/sSm2dRarhPo.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Testing Docker")
+[![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Testing Docker")
 
 
 - [ ]todo list
